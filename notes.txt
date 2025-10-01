@@ -1,0 +1,9 @@
+// 09/09/25 parctice //
+
+class dailypractice{
+    public static void main (string [] args){
+         System.out.println("welcome to java");
+   
+    }
+}
+// main method declaration //
