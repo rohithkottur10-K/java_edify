@@ -1,4 +1,4 @@
-class dp{
+class Dp{
     public static void main(String [] args){
         byte b=4;
         short s=999;
