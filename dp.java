@@ -26,6 +26,13 @@ class Dp{
         int time= 4;
 
         System.out.println(greet + name + time);
+        System.out.println("class will end by " + time + 1 );
+        System.out.println("class will end by " + (time + 1) );
+
+int a=10;
+int u=20;
+
+System.out.println(a+u);
 
 
     }
